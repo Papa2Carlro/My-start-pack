@@ -14,7 +14,7 @@ class App {
   }
 
   initLoad() {
-    console.log(this.el)
+
   }
 }
 
